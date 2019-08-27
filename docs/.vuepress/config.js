@@ -5,6 +5,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Concepts', link: 'concepts' },
+      { text: 'Intro', link: 'utkast/2019-08-27-test-en' },
       {
         text: 'Methods',
         items: [
