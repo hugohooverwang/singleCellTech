@@ -1,7 +1,0 @@
-#+TITLE: test1
-#+OPTIONS: toc:nil
-#+STARTUP: showall indent
-#+STARTUP: hidestars
----
-sidebar: auto
----
